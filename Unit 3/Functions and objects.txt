@@ -1,0 +1,10 @@
+Function and objects
+1) Pass objects as a value in Function and return object
+main
+pass by value          difference(t1,t2)
+t1 , t2, t3             t1      t2      t3
+  t1      t2     t3    |2|4|6| |3|6|8| |1|2|2|
+2|4|6   |3|6|8| |1|2|2|
+&t1=x
+2) Pass objects as a reference in Function and return object
+3) Pass objects as a pointer in Function and return pointer
